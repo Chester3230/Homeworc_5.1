@@ -24,7 +24,6 @@ public class Main {
             }
         }
 
-
         System.out.println("Минимальная сумма трат за день составила "  + min + declinationOfRubles(min));
         System.out.println("Максимальная сумма трат за день составила " + max + declinationOfRubles(max));
 
